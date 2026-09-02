@@ -1,0 +1,40 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
+  "glassmorphic": true,
+  "entries": [
+    {
+      "id": "20260902-205945-2lex",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "51E25755-67E3-E311-BB46-80C16E7C6D65",
+        "name": "Juang Number Ten",
+        "tag": "JNT"
+      },
+      "dateStart": "2026-09-02T12:59:45.000Z",
+      "dateEnd": "2026-09-02T14:00:38.593Z",
+      "dateLabel": "9/2/2026, 8:59:45 PM - 9/2/2026, 10:00:38 PM",
+      "url": "https://Jjthejuice-Leafxy.github.io/Test/?report=20260902-205945-2lex",
+      "summary": {
+        "borderlandsPct": 0.038461538461538464,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 39
+      }
+    }
+  ]
+}
