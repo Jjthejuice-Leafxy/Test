@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260904-221605-3u4v",
+      "title": "Majitasukete",
+      "commanders": [
+        "Majitasukete"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-09-04T14:16:05.000Z",
+      "dateEnd": "2026-09-04T15:05:32.308Z",
+      "dateLabel": "9/4/2026, 10:16:05 PM - 9/4/2026, 11:05:32 PM",
+      "url": "https://Jjthejuice-Leafxy.github.io/Test/?report=20260904-221605-3u4v",
+      "summary": {
+        "borderlandsPct": 0.1111111111111111,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260902-205945-2lex",
       "title": "Incôgnïto",
       "commanders": [
