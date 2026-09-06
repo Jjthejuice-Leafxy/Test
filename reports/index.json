@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260906-210334-x5bw",
+      "title": "Four K Ping Sil",
+      "commanders": [
+        "Four K Ping Sil"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-09-06T13:03:34.000Z",
+      "dateEnd": "2026-09-06T14:41:21.558Z",
+      "dateLabel": "9/6/2026, 9:03:34 PM - 9/6/2026, 10:41:21 PM",
+      "url": "https://Jjthejuice-Leafxy.github.io/Test/?report=20260906-210334-x5bw",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260905-210933-ljx4",
       "title": "Kryskàa",
       "commanders": [
