@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260913-140320-qrto",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-09-13T06:03:20.000Z",
+      "dateEnd": "2026-09-13T07:00:00.841Z",
+      "dateLabel": "9/13/2026, 2:03:20 PM - 9/13/2026, 3:00:00 PM",
+      "url": "https://Jjthejuice-Leafxy.github.io/Test/?report=20260913-140320-qrto",
+      "summary": {
+        "borderlandsPct": 0.3076923076923077,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260912-211201-pve2",
       "title": "Kryskàa",
       "commanders": [
