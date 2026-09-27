@@ -2,7 +2,41 @@
   "colorPalette": "electric-blue",
   "glassSurfaces": true,
   "glassmorphic": true,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260927-195431-m0w4",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-09-27T11:54:31.000Z",
+      "dateEnd": "2026-09-27T14:02:53.038Z",
+      "dateLabel": "9/27/2026, 7:54:31 PM - 9/27/2026, 10:02:53 PM",
+      "url": "https://Jjthejuice-Leafxy.github.io/Test/?report=20260927-195431-m0w4",
+      "summary": {
+        "borderlandsPct": 0.05263157894736842,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 43
+      }
+    },
     {
       "id": "20260926-220655-coxs",
       "title": "Kryskàa",
