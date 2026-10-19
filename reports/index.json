@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.5"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261019-210522-o1rn",
+      "title": "Incôgnïto",
+      "commanders": [
+        "Incôgnïto"
+      ],
+      "guild": {
+        "id": "51E25755-67E3-E311-BB46-80C16E7C6D65",
+        "name": "Juang Number Ten",
+        "tag": "JNT"
+      },
+      "dateStart": "2026-10-19T13:05:22.000Z",
+      "dateEnd": "2026-10-19T14:06:03.105Z",
+      "dateLabel": "10/19/2026, 9:05:22 PM - 10/19/2026, 10:06:03 PM",
+      "url": "https://Jjthejuice-Leafxy.github.io/Test/?report=20261019-210522-o1rn",
+      "publishedBy": "Jjthejuice-Leafxy",
+      "summary": {
+        "borderlandsPct": 0.1,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 38
+      }
+    },
     {
       "id": "20261013-210151-8kjh",
       "title": "The Bloöp",
