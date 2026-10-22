@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261022-213603-czxw",
+      "title": "S I L F",
+      "commanders": [
+        "S I L F"
+      ],
+      "guild": {
+        "id": "FB1F3228-C893-F011-BB16-027555657585",
+        "name": "Examine Your Zipper",
+        "tag": "xyz"
+      },
+      "dateStart": "2026-10-22T13:36:03.000Z",
+      "dateEnd": "2026-10-22T14:27:00.188Z",
+      "dateLabel": "10/22/2026, 9:36:03 PM - 10/22/2026, 10:27:00 PM",
+      "url": "https://Jjthejuice-Leafxy.github.io/Test/?report=20261022-213603-czxw",
+      "publishedBy": "Jjthejuice-Leafxy",
+      "summary": {
+        "borderlandsPct": 0.034482758620689655,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20261019-210522-o1rn",
       "title": "Incôgnïto",
       "commanders": [
