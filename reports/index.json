@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261023-212751-f6p5",
+      "title": "Kryskàa",
+      "commanders": [
+        "Kryskàa"
+      ],
+      "guild": {
+        "id": "0F087A21-0D2D-F111-BB1D-12683E7B69EB",
+        "name": "Ma Gu Ro",
+        "tag": "MGR"
+      },
+      "dateStart": "2026-10-23T13:27:51.000Z",
+      "dateEnd": "2026-10-23T14:28:53.090Z",
+      "dateLabel": "10/23/2026, 9:27:51 PM - 10/23/2026, 10:28:53 PM",
+      "url": "https://Jjthejuice-Leafxy.github.io/Test/?report=20261023-212751-f6p5",
+      "publishedBy": "Jjthejuice-Leafxy",
+      "summary": {
+        "borderlandsPct": 0.058823529411764705,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20261022-213603-czxw",
       "title": "S I L F",
       "commanders": [
